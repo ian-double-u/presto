@@ -15,7 +15,7 @@
         <air.main.basedir>${project.parent.basedir}</air.main.basedir>
         <main-class>com.facebook.presto.tests.TemptoProductTestRunner</main-class>
         <air.check.skip-duplicate-finder>true</air.check.skip-duplicate-finder>
-        <scala.version>2.12.2</scala.version>
+        <scala.version>2.13.8</scala.version>
     </properties>
 
     <dependencies>
